@@ -15,5 +15,5 @@ def question2_4():
     return answer
 
 def question2_5():
-    answer = ['Discrete', 'Nomial', 'Discrete because a finite set of distinct numbers. Nomial because it's used for identification, not for quantitative measurement.']
+    answer = ['Discrete', 'Nominal', 'Discrete because a finite set of distinct numbers. Nominal because it's used for identification, not for quantitative measurement.']
     return answer
