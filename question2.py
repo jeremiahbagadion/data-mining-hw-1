@@ -1,5 +1,5 @@
 def question2_1():
-    answer = ['Discrete', 'Ratio', "It is discrete because the number of courses is countable and finite. It is Ratio because It's a count with a true zero (zero courses)."]
+    answer = ['Discrete', 'Ratio', 'It is discrete because the number of courses is countable and finite. It is Ratio because It's a count with a true zero (zero courses).']
     return answer
 
 def question2_2():
