@@ -18,4 +18,4 @@ def question2_5():
     answer = ['discrete', 'qualitative', 'nominal']
     return answer
 
-# chatgpt conversation for HW1 https://chat.openai.com/share/d60de56a-cce9-46ed-ac20-3cb6111b3482
+# chatgpt conversation for HW1 https://chat.openai.com/share/04832a87-79ac-4567-984f-55b3194cf238
